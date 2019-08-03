@@ -21,3 +21,8 @@ Two principles should be considered according to *ShuffleNet v2*.
 ![](speed.png)
 ![](FLOPs.png)
 
+## References
+[ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164)   
+[THOP: PyTorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter)
+
+
